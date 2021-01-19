@@ -32,7 +32,7 @@ public static void main (String[] args)
 		System.out.println("Reverse number is :"+rev);
 }
 }
-// program - 2
+// logic - 2
 package reverse;
 
 import java.util.Scanner;
