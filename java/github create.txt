@@ -1,0 +1,24 @@
+STEPS 
+Create a github account 
+ 1.signup
+ 2.create repostery 
+ 3. code ----copy URl 
+  git clone  https://github.com/appu22/appu-xworkz.git
+  cd xworkz
+	git checkout -b methods(create branch)
+	git status
+
+4 download gitbash
+5 create floder in local (d drive)
+6 paste your code inside folder (right click goto github bash)
+7 
+88888888888888888888888888888888888888888888888888888888888888888
+git clone url
+cd reponame(folder)
+git checkout -b branchname
+git status
+git add .
+git status
+git commit -m "message"
+git push
+
